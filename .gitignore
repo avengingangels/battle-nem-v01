@@ -1,3 +1,4 @@
 nem-model/scratch.py
 nem-model/__pycache__/
 .vscode/
+.DS_Store

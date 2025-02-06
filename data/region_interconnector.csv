@@ -1,0 +1,3 @@
+﻿interconnector_id,region_start,region_end,interconnector_capacity
+NSW-VIC,NSW,VIC,250
+NSW-QLD,NSW,QLD,300
